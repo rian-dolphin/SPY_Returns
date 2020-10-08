@@ -1,4 +1,4 @@
-# SPY_Returns
+# ETF Investing
 Analysing the worst returns of the S&amp;P 500 over various periods
 
 ## Check out the Medium Article relating to this notebook linked below
